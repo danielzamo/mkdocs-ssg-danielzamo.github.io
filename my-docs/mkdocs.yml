@@ -1,0 +1,13 @@
+site_name: my Docs
+site_url: https://danielzamo.github.io/
+docs_dir: docs
+
+nav:
+  - index: index.md
+  - Ciclo de vida DevOps: ciclo-vida-devops.md
+
+#theme: material
+theme: readthedocs
+
+extra_css:
+  - styles/custom.css
