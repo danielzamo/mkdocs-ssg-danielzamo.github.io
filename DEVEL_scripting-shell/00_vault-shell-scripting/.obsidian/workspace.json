@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "55615290aa009314",
+    "type": "split",
+    "children": [
+      {
+        "id": "93908150dac942b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139b619b49e1360f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción al entorno de desarrollo y la filosofía DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d937351d41a81a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d12d2b94c45aac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288f90df2af851f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e25de5d957e2869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b350b373737609b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "517bedc0c08017fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1563129d1ec68e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f036db31ccdbe8c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción al entorno de desarrollo y la filosofía DevOps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f507bb877895c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción al entorno de desarrollo y la filosofía DevOps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70617d66928c9f17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "607d2e93f741a115",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción al entorno de desarrollo y la filosofía DevOps.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "139b619b49e1360f",
+  "lastOpenFiles": [
+    "Inicio.md",
+    "Desarrollo de software - ciclo de vida DevOps.md",
+    "Qué es DevOps.md",
+    "Paradigma funcional - Ventajas.md",
+    "Introducción al entorno de desarrollo y la filosofía DevOps.md",
+    "Shell Scripting - funciones.md",
+    "Excalidraw/libraries/wireframing-placeholders.excalidrawlib",
+    "Excalidraw/libraries/web3-crypto-solution-design-v1.excalidrawlib",
+    "Excalidraw/libraries/web-kit.excalidrawlib",
+    "Excalidraw/libraries/wardley-maps-symbols.excalidrawlib",
+    "Excalidraw/libraries/vmware-architecture-design.excalidrawlib",
+    "Excalidraw/libraries/vmware-architecture-design(1).excalidrawlib",
+    "Excalidraw/libraries/veeam.excalidrawlib",
+    "Excalidraw/libraries/universal-ui-kit.excalidrawlib",
+    "Excalidraw/libraries/uml-library-activity-diagram.excalidrawlib",
+    "Excalidraw/libraries/UML-ER-library.excalidrawlib",
+    "Shell Scripting - mas de funciones.md",
+    "Sugerencias y tips para escritura de scripting shell.md",
+    "Sistemas operativos - Orientados al comandos vs Orientados a la GUI.md",
+    "Relación entre Shell Scripting y DevOps.md",
+    "Qué es un Shell.md",
+    "Qué es el CLI.md",
+    "Desarrollo de software - Enfoque Tradicional o Tipo Cascada.md",
+    "Excalidraw/Drawing 2024-09-05 14.07.15.excalidraw.md",
+    "Excalidraw/drawings/shell_categories.excalidraw.md",
+    "Excalidraw/drawings/relación entre Shell Scripting y DevOps.excalidraw.md",
+    "Excalidraw/drawings/Drawing 2024-09-06 14.29.20.excalidraw.md",
+    "Excalidraw/drawings/Drawing 2024-09-05 16.06.19.excalidraw.md",
+    "Excalidraw/drawings/Drawing 2024-09-05 15.00.24.excalidraw.md",
+    "Excalidraw/drawings/Drawing 2024-09-05 14.40.52.excalidraw.md",
+    "Excalidraw/drawings/Drawing 2024-08-31 23.32.21.excalidraw.md",
+    "Categorías de she.canvas",
+    "images/20240901-diagrams-Shell - Kernel - Hardware.png",
+    "images/sistemas-operativos-comando-vs-gui.png",
+    "Tipos de Shell.md",
+    "images/shell-categorias.png",
+    "images/shell_kernel_hardware.png",
+    "images/zshell_logo.png",
+    "images/ksh_logo.png",
+    "images/bash_logo.png",
+    "images/cmd_logo.png",
+    "images/powershell_logo.jpg",
+    "images/powershell_logo.png",
+    "test.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "academic-pdf-export",
+    "UI-tweaks"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}

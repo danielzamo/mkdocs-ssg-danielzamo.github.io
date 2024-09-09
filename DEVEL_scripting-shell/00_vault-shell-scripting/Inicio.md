@@ -1,0 +1,29 @@
+## [[Introducción al entorno de desarrollo y la filosofía DevOps]]
+- [[Desarrollo de software - Enfoque Tradicional o Tipo Cascada]]
+- [[Desarrollo de software - ciclo de vida DevOps]]
+- [[Qué es DevOps]] / [[Relación entre Shell Scripting y DevOps]]
+[[Sistemas operativos - Orientados al comandos vs Orientados a la GUI]]
+Shell
+- [[Qué es un Shell]] / [[Tipos de Shell]] más comunes (para sis. op. tipo Unix y/o Linux).
+El CLI (Command Line Interface)
+- [[Qué es el CLI]] / ventajas (y desventajas) del uso del CLI / relación entre el CLI y el Shell.
+Alcance de las variables en Shell Scripting
+- Tipos de variables / buenas prácticas en el uso de variables.
+Un shell no es un lenguaje de programación completo
+¿Qué significa que un Shell no es un lenguaje de programación completo? / limitaciones del Shell Scripting.
+Paradigmas de Codificación en Shell Scripting
+- Secuencial, Funcional, Modularidad, KISS, Dry, etc… / Comentarios y documentación
+Buenas Prácticas de Desarrollo de Scripts
+FHS (Filesystem Hierarchy Standard) / validación de entradas / pasaje de parámetros posicionales / manejo de errores / seguridad / versionado de scripts / herramientas software para entorno de desarrollo / definición / utilización y generación de plantillas para código Shell Bash.
+Caso de uso: Implementación de un ejemplo, con entrega sugerida como componente de software para validar.
+- [[Sugerencias y tips para escritura de scripting shell]] (bash principalmente)
+
+## Notas relacionadas - buenas practicas en shell scripting
+
+- [[Paradigmas de programación]]
+	- [[Paradigma funcional - Ventajas]] / [[Shell Scripting - funciones]] / [[Shell Scripting - mas de funciones]]
+
+## Referencias
+
+- [DevOps en 5 minutos | ¿Qué es DevOps? | Explicación DevOps](https://youtu.be/3-vd5NDH1-I?si=Y_m8y9ywLHhMMQsX)
+- [# ¿Qué es DevOps y CI/CD?](https://youtu.be/xm1psJEFFIY?si=iLzrexblmyIeWEiD)
