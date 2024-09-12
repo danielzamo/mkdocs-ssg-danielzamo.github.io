@@ -4,6 +4,7 @@
 En una cultura DevOps, el ciclo de desarrollo de software se centra en la colaboración, la automatización y la integración continua para acelerar la entrega de software de alta calidad. El objetivo principal de DevOps es reducir las barreras entre los equipos de desarrollo (Dev) y operaciones (Ops), permitiendo un flujo de trabajo más ágil y eficiente. En el diagrama se representan las principales fases del ciclo de desarrollo de software en una cultura DevOps.
 
 ![[ciclo-de-vida-devops.png|600]]
+
 ## Etapas
 
 **Planificación:**

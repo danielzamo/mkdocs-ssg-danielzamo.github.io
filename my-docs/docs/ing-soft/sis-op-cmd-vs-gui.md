@@ -1,0 +1,1 @@
+![Sistemas Operativos orientados al comando y orientados a la GUI](images/sistemas-operativos-comando-vs-gui.png)

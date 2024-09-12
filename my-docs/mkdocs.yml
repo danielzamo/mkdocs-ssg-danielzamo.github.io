@@ -1,13 +1,38 @@
-site_name: my Docs
+site_name: Docs
 site_url: https://danielzamo.github.io/
 docs_dir: docs
 
+theme: 
+  name: 
+    material 
+  #  readthedocs
+  font:
+    text: Roboto
+#  features:
+#    - navigation.tabs   # Esto añade pestañas de navegación, opcional
+#    - navigation.sections  # Muestra la barra lateral en secciones, muy útil para estructura jerárquica
+
+plugins:
+  - search
+  - awesome-pages
+
 nav:
-  - index: index.md
-  - Ciclo de vida DevOps: ciclo-vida-devops.md
-
-#theme: material
-theme: readthedocs
-
-extra_css:
-  - styles/custom.css
+  - Home: index.md
+  - 'Definiciones y siglas': definiciones-y-siglas.md/
+  - Ingeniería de Software:
+      - 'Ingeniería de Software': ing-soft/ingenieria-de-software.md
+      - 'Ciclo Vida Tradicional': ing-soft/ciclo-vida-tradicional.md
+      - 'Modelo Tradicional Desventajas': ing-soft/modelo-tradicional-desventajas.md
+      - 'Que es DevOps': ing-soft/que-es-devops.md
+      - 'Ciclo Vida DevOps': ing-soft/ciclo-vida-devops.md
+      - 'Paradigmas de Programación': ing-soft/paradigmas-programacion.md
+      - 'Sistema operativos CMD vs. GUI': ing-soft/sis-op-cmd-vs-gui.md
+  - Shell:
+      - '¿Qué es un Shell?': shell/que-es-el-shell.md
+      - '¿Qué es el CLI?': shell/que-es-el-cli.md
+      - 'Relación Shell - Kernel - Hardware': shell/shell-kernel-hardware.md
+      - 'Relación entre DevOps y Shell Scripting': shell/relacion-devops-shell-scripting.md
+  - Linux:
+      - 'Estandar FHS': linux/fhs.md
+  - 'Links y/o URL': links-referencias.md
+  

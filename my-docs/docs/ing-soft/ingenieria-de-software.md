@@ -1,0 +1,5 @@
+> La ingeniería de software es una disciplina que se encarga del diseño, desarrollo y mantenimiento del software. Comprender qué es la Ingeniería de Software y sus objetivos, es fundamental para aquellos interesados en esta área.
+
+Asimismo, incluye el análisis previo de la situación, la redacción del proyecto, la creación de todos los productos software y las pruebas necesarias para garantizar su correcto funcionamiento antes de que el sistema esté operativo. 
+
+> Esta ingeniería aborda todas las fases del ciclo de vida de desarrollo de cualquier tipo de sistema de información y es aplicable a una amplia gama de ámbitos de la informática y la ciencia de los ordenadores, como el diseño de compiladores, sistemas operativos y tecnologías de Intranet/Internet: la empresa, la investigación científica, la medicina, la fabricación, la logística, la banca, el control del tráfico y la meteorología son solo algunos de los campos en los que puede trabajar.
